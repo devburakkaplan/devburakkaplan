@@ -12,33 +12,12 @@
  <a href="https://github.com/devburakkaplan"> 💻 GitHub</a>
 </h3>
 
-<h4>
- <code><b>🚀 “Creating technologies that contribute to my country and pushing the limits with innovation is my greatest motivation.” 🚀</b></code>
-</h4>
-
----
-
-## 👨‍💻 About Me  
-High school student & technology enthusiast.  
-Co-Founder of FABTEK Technologies & FABTEK.AI developer.  
-Focused on AI, Autonomous Systems, Robotics, and IoT.  
-Finalist at TEKNOFEST & Special Jury Award at İTÜRO.  
-Advanced student at Bilim Konya & DENEYAP Türkiye.  
-
 ---
 
 ## 🛠️ Skills  
 Python, C, HTML, CSS, Flutter  
 AI (Computer Vision & NLP), Autonomous Systems, IoT, Robotics, Image Processing  
 PyTorch, TensorFlow, OpenCV, ROS, Google Colab  
-
----
-
-## 📌 Current Projects  
-Rose Harvesting Machine – Autonomous vision-based harvesting system  
-AI in Healthcare – Cardiomegaly detection & cardiothoracic ratio calculation  
-Agricultural Robot – Autonomous spraying robot  
-Ottoman Turkish Translation AI – OCR + NLP translation system  
 
 ---
 
