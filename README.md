@@ -2,7 +2,7 @@
 </p>   
      
 # Burak KAPLAN    
-### AI Developer | Co-Founder @ FABTEK Technologies | AI in Healthcare | Robotics & IoT | Computer Vision & NLP  
+### AI & Software Developer | Co-Founder @ FABTEK Technologies | Designer | AI in Healthcare | Robotics & IoT | Computer Vision & NLP  
 
 <h3>
  <a href="https://linktr.ee/fabtek">🏦 FABTEK</a>   |
