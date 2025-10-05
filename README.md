@@ -1,5 +1,4 @@
 <p align="center">
- <img width="1000" src="banner.png" alt="banner"/>  
 </p>   
      
 # Burak KAPLAN    
