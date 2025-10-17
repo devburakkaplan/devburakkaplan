@@ -20,9 +20,6 @@
   <a href="mailto:dev.burakkaplan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://huggingface.co/burakkaplann">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-  </a>
 </div>
 
 ### About Me
