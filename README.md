@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://linktr.ee/fabtek">
-    <img src="https://img.shields.io/badge/FABTEK-black?style=for-the-badge&logo=homeassistant" alt="FABTEK">
+    <img src="https://img.shields.io/badge/FABTEK-black?style=for-the-badge&logo=" alt="FABTEK">
   </a>
   <a href="https://www.linkedin.com/in/devburakkaplan/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
