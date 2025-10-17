@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="PASTE_YOUR_BANNER_IMAGE_LINK_HERE" alt="Burak Kaplan Banner"/>
+  <img src="https://raw.githubusercontent.com/devburakkaplan/devburakkaplan/refs/heads/main/banner1.jpeg" alt="Banner"/>
 </div>
 
 ---
