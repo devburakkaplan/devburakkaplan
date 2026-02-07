@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devburakkaplan/devburakkaplan/refs/heads/main/bannerr.jpeg" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/devburakkaplan/devburakkaplan/refs/heads/main/Artboard%202.png" alt="Banner"/>
 </div>
 
 ---
